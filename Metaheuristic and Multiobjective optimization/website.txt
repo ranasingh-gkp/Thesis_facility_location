@@ -1,3 +1,4 @@
 http://yarpiz.com/
 https://www.youtube.com/watch?v=zvb8nMl76vA
 https://www.youtube.com/watch?v=cCfHiqup3NU&list=PLRDGL8_oYA6wChN-dtnm43NsbxE6_K2tJ&index=3
+https://in.mathworks.com/matlabcentral/answers/344088-why-my-matlab-codes-do-not-give-correct-answer-in-genetic-algorithm-for-solving-facility-problem
