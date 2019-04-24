@@ -4,3 +4,4 @@ https://www.youtube.com/watch?v=cCfHiqup3NU&list=PLRDGL8_oYA6wChN-dtnm43NsbxE6_K
 https://in.mathworks.com/matlabcentral/answers/344088-why-my-matlab-codes-do-not-give-correct-answer-in-genetic-algorithm-for-solving-facility-problem
 http://freesourcecode.net/socialtags/multi-objective-optimization#.XJVENIrLeZc
 https://dirkschumacher.github.io/ompr/articles/problem-warehouse-location.html
+https://scipbook.readthedocs.io/en/latest/flp.html#capacitated-facility-location-problem
