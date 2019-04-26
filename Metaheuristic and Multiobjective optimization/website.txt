@@ -7,3 +7,6 @@ https://dirkschumacher.github.io/ompr/articles/problem-warehouse-location.html
 https://scipbook.readthedocs.io/en/latest/flp.html#capacitated-facility-location-problem
 https://project-flo.de/flo/
 http://matlabhome.ir/
+https://www.youtube.com/watch?v=esGZtl3gIlY
+https://www.youtube.com/watch?v=IV5Pr2E2cK4
+https://www.youtube.com/watch?v=zDj8cX8OAPY
